@@ -1,7 +1,6 @@
 {
-"spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-
-//
+"spider":"https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true",
+//"spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 "sites":[
 {"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.485}},
