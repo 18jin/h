@@ -1,6 +1,6 @@
 {
 "spider": "https://github.com/gaotianliuyun/gao/blob/master/jar/pg.jar?raw=true",
-//"spider":"https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true",
+
 
 "sites":[
 {"key":"Supjav","name":"Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true"},
