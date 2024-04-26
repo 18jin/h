@@ -7,6 +7,6 @@
 {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
 {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
 {"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
-{"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1}
 ]
 }
