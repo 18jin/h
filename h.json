@@ -8,8 +8,9 @@
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
 {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy","style": {"type": "rect","ratio": 1.5}},
 {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
-{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
 {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
+{"key":"泥巴","name":"泥视频","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
+{"key":"Hanime","name":"🌸Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
 {"key":"Supjav","name":"Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1}
 ]
 }
