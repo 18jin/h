@@ -1,6 +1,5 @@
 {
 "spider": "https://github.com/gaotianliuyun/gao/blob/master/jar/pg.jar?raw=true",
-"logo":"https://cdn.pixabay.com/photo/2017/02/18/14/10/letters-2077266_1280.png",
 
 "sites":[
 {"key":"MissAV","name":"⭐MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
