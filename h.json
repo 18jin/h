@@ -1,6 +1,6 @@
 {
 "spider": "https://github.com/gaotianliuyun/gao/blob/master/jar/pg.jar?raw=true",
-"logo":"https://www.emojiall.com/images/60/huawei/1f51e.png",
+"logo":"https://missav.com/img/favicon.ico",
 
 "sites":[
 {"key":"MissAV","name":"⭐MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
