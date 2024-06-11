@@ -8,10 +8,12 @@
 {"key":"泥巴","name":"㊥泥视频","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
 {"key":"Hanime","name":"🌸Hanime1","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
 {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
+{"key": "Top888","name": "Top888","type": 3,"api": "csp_Top888","searchable": 1,"changeable": 0},
+{"key": "AvTime","name": "AvTime","type": 3,"api": "csp_AvTime","searchable": 1,"changeable": 0},
+{"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.485}},
 {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy","style": {"type": "rect","ratio": 1.5}},
 {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/Missav.js"},
 {"key":"黄色仓库","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"https://github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar?raw=true","style":{"ratio":1.7},"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93.json"},
-{"key":"91黑料","name":"91黑料","type":3,"api":"csp_XBPQ","jar":"https://github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar?raw=true","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ/91%E9%BB%91%E6%96%99.json"},
 {"key":"Cable","name":"㊥CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60}
 ]
 }
