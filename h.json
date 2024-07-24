@@ -4,7 +4,7 @@
 
 "sites":[
 {"key":"MissAV","name":"⭐MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
-{"key":"Supjav","name":"⭐Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true"},
+{"key":"Supjav","name":"⭐Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xc0126.jar"},
 {"key":"泥巴","name":"㊥泥视频","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
 {"key":"Hanime","name":"🌸Hanime1","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
 {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
