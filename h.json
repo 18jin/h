@@ -16,6 +16,6 @@
 {"key":"Cable","name":"㊥CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"style":{"type":"rect","ratio":1.77}},
 {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/Missav.js"},
 {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"style":{"type":"rect","ratio":1.77}},
-{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}}
+{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.5}}
 ]
 }
